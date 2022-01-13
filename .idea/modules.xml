@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Retrofit2Kotlin.iml" filepath="$PROJECT_DIR$/.idea/modules/Retrofit2Kotlin.iml" group="Retrofit2Kotlin" />
+      <module fileurl="file://$PROJECT_DIR$/Retrolin.iml" filepath="$PROJECT_DIR$/Retrolin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/StockPriceData.iml" filepath="$PROJECT_DIR$/.idea/modules/app/StockPriceData.iml" group="Retrofit2Kotlin/StockPriceData" />
+      <module fileurl="file://$PROJECT_DIR$/StockPriceData/app.iml" filepath="$PROJECT_DIR$/StockPriceData/app.iml" />
+    </modules>
+  </component>
+</project>
